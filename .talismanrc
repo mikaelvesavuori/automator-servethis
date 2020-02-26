@@ -1,0 +1,5 @@
+fileignoreconfig:
+- filename: ServeThis.workflow/Contents/document.wflow
+  checksum: b234da667aab490397a4450d2da42c419763935a7c74dcca3aa8d8d27167ec63
+  ignore_detectors: []
+scopeconfig: []
