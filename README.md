@@ -22,6 +22,12 @@ If your code runs a Node server that can be started in the common `npm start` wa
 ![Usage demonstration](usage.png)
 _Usage demonstration_
 
+- Depending on project behavior, you should see your default web browser open up in a few seconds, with the URL to whatever the application is serving
+- To shut down the webserver, click the gear in the upper right corner and then the small "X" icon
+
+![Shutting down the webserver](shutdown.png)
+_Shutting down the webserver_
+
 ## Source code
 
 The tiny script that gets run is available under `ServeThis.sh`.
