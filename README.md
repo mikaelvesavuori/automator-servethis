@@ -1,6 +1,8 @@
-# ServeThis: Web server running as a Mac OS X Automator service
+# ServeThis: A Mac OS X Automator service that fires up your Node web server
 
-Sometimes you just need the tiniest, simplest thing. Like a web server. But those tend to be bloated experiences, and you don't want to run a ton of scripts or installs or anything. Or you just get very intimidated by those things. Either way is fine! ServeThis has you covered.
+Sometimes you just need the tiniest, simplest thing. Like a web server. But even getting to start them tends to be a bloated experience, and as a layman maybe you don't want to run a ton of scripts or installs or anything. Or you just get really intimidated by those things. Either way is fine!
+
+If your code runs a Node server that can be started in the common `npm start` way, ServeThis has you covered. ServeThis will also always install any NPM dependencies you might have. Don't know what that means? Even better! "It just works", then.
 
 ## Prerequisites
 
